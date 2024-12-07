@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Notifications"
+        android:id="@+id/menuitem1"/>
+    <item
+        android:title="Intent Service"
+        android:id="@+id/menuitem2"/>
+    <item
+        android:title="Item 3"
+        android:id="@+id/menuitem3"/>
+
+</menu>
